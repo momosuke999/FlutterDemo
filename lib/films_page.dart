@@ -8,12 +8,7 @@ import 'package:douban_demo/Request.dart';
 import 'package:douban_demo/ListData.dart';
 import 'package:douban_demo/FilmDetailPage.dart';
 import 'package:douban_demo/StarPainter.dart';
-import 'package:douban_demo/xuxian.dart';
 
-
-//点击电影cell跳转到电影详情页
-//Homepage里默认显示正在上映的电影list的TabView
-// index=0 就是正在上映，index=1就是即将上映
 
 
 class FilmPage extends StatefulWidget{

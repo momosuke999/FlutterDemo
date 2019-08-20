@@ -8,7 +8,6 @@ import 'package:douban_demo/Request.dart';
 import 'package:douban_demo/ListData.dart';
 import 'package:douban_demo/FilmDetailPage.dart';
 import 'package:douban_demo/StarPainter.dart';
-import 'package:douban_demo/xuxian.dart';
 
 
 
@@ -230,7 +229,7 @@ class FilmPageState extends  State<FutureFilmPage>{
                                       child:new OutlineButton(
                                         //color: Colors.pink,
                                         //textColor: Colors.pinkAccent,
-                                          child: new Text("预售",
+                                          child: new Text("想看",
                                               style: new TextStyle(
                                                   fontSize: 13.0,
                                                   color: Colors.orangeAccent
