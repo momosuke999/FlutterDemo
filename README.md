@@ -1,6 +1,6 @@
 # douban_demo
 
-A new Flutter application.
+A new Flutter film details application
 
 ![image](https://github.com/momosuke999/FlutterDemo/blob/master/WechatIMG339.jpeg)
 
