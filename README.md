@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+![image](https://github.com/momosuke999/FlutterDemo/blob/master/WechatIMG339.jpeg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
